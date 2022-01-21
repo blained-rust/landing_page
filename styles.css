@@ -97,7 +97,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 100px;
+        padding: 125px;
     }
     
     .banner-container {
@@ -175,4 +175,14 @@
         border: 0px;
         color: #F9FAF8;
         font-weight: bold;
+    }
+    
+    .footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 40px;
+        color: #F9FAF8;
+        background-color: #1f2937;
+        font-weight: 400;
     }
